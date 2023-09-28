@@ -1,13 +1,13 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+name: "William Menezes"
+title: "Ideas Arena"
+description: "Tech Articles, Ideas and Tutorials that I need to get out of my mind!"
+logo: "assets/images/logo.png"
+favicon: "assets/images/logo.png"
+baseurl: #/mediumish-theme-jekyll
+google_analytics: #'UA-46278016-1'
+disqus: #'demowebsite'
+mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -30,6 +30,15 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  william:
+    name: William Menezes
+    display_name: William Menezes    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: williamwsm@gmail.com
+    web: https://wsmenezes.github.io
+    twitter: #https://twitter.com/wowthemesnet
+    description: "I am a Technical Business Analyst. And yes, this role exists. I often find myself jumping from requirement meetings to code reviews, gladly combining my communication and tech skills. Let's create some stories on Jira and open the terminal right away."
 
 # Plugins
 plugins:
